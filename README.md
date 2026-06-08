@@ -28,11 +28,12 @@ Drug overdose deaths in Connecticut rose from 355 in 2012 to a peak of 1,524 in 
 - Fig 6Number of substances detected per case (polydrug)
 - Fig 7Age distribution with KDE and t-test result
 
-Tech Stack
+**Tech Stack**
 - Python
 - pandas, NumPy
 - Matplotlib
 - SciPy (t-test, Gaussian KDE)
 
-Author 
+**Author** 
+
 Bolortulga Seded MSc Big Data and Data Science, Northumbria University LOndon
