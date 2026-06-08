@@ -11,7 +11,7 @@ Drug overdose deaths in Connecticut rose from 355 in 2012 to a peak of 1,524 in 
 - **No significant age difference by sex** — independent samples t-test (t = −1.06, p = 0.29) found no statistically significant difference in mean age between male (44.3) and female (44.6) victims
 - **Males account** for 73.9% of all deaths.
 
-- **What I Did**
+**What I Did**
 - Data Cleaning — Parsed dates, extracted year features, assessed missing values across 49 columns (12,963 records)
 - Exploratory Data Analysis — Produced 7 figures covering yearly death trends, age distributions, substance detection rates, racial demographics, and polydrug patterns
 - Substance Trend Analysis — Tracked year-over-year detection rates for fentanyl, heroin, cocaine, benzodiazepine, and ethanol, identifying the 2016 fentanyl crossover point
@@ -19,7 +19,7 @@ Drug overdose deaths in Connecticut rose from 355 in 2012 to a peak of 1,524 in 
 - Hypothesis Testing — Conducted an independent samples t-test comparing age distributions between male and female victims (α = 0.05)
 - KDE Visualisation — Overlaid kernel density estimates on age histograms to visualise distributional similarity between sexes.
 
-- **Visualisations**
+**Visualisations**
 - Fig 1EDA overview — deaths per year, age by sex, sex distribution, top locations
 - Fig 2Key substance detection trends per year (2012–2024)
 - Fig 3Total detections per substance
